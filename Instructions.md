@@ -1,6 +1,5 @@
 # NREL-internship
 
-
 	- How do I install git bash?
 
 		-Download the latest version of Git Bash from their official website: https://git-scm.com/
