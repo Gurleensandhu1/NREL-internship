@@ -19,3 +19,15 @@
 - Open GitBash with folder where you want to download it. 
 - Type *"git clone"* and paste the **HTTPS link** and hit enter.
 - Repository is now downloaded on your computer and you can open it with *Visual Studio code*.
+
+## How to download Anaconda
+
+- Download the Anaconda from from their official website: https://www.anaconda.com/products/individual#windows
+- Double click the installer to launch and hit *"Next"*.
+- Read the licensing terms and click *“I Agree”*.
+- Select an install for *“Just Me”* and click *"Next"*.
+- Select a destination folder to install Anaconda and click the *"Next"* button.
+- Click the *"Install"* button. 
+- Click the *"Next"* button.
+- After a successful installation click the *"Finish"* button.
+
