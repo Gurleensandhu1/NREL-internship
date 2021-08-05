@@ -1,0 +1,6 @@
+name: nrel
+dependencies:
+  - python=3.7
+  - jupyter
+  - pip:
+    - pytest
