@@ -31,3 +31,6 @@
 - Click the *"Next"* button.
 - After a successful installation click the *"Finish"* button.
 
+## Create Conda Environments
+
+- You can create your first conda environment: Type "conda env create -f environment.yml"
