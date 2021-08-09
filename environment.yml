@@ -2,6 +2,8 @@ name: nrel
 dependencies:
   - python=3.7
   - jupyter
+  - pandas
+  - matplotlib
   - pip
   - pip:
     - pytest
