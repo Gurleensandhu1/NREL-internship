@@ -47,3 +47,10 @@
 
 - Here is the link for Analysis.ipynb: https://github.com/Gurleensandhu1/NREL-internship/blob/main/notebooks/Analysis.ipynb
 
+## Example graphs from Analysis.ipynb
+
+![](Images/Screenshot1.png)
+![](Images/Screenshot2.png)
+![](Images/Screenshot3.png)
+![](Images/Screenshot4.png)
+![](Images/Screenshot5.png)
