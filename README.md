@@ -1,9 +1,12 @@
 # NREL-internship
 
+## Install
 
-## How do I install git bash?
+In order to run the code in this repo you'll need to install the following packages.
 
-- Download the latest version of Git Bash from their official website: https://git-scm.com/
+### Install `git bash`
+
+- Download the latest version of Git Bash from their [official website](https://git-scm.com/).
 - Click the *“Download for windows”* button and download Git Bash
 - Run the Installer and select destination location (just leave the default option as it is, and click *“Next”*). 
 - Adjust your PATH Environment and select *"Use Git from Git Bash only"*.
@@ -12,17 +15,20 @@
 - Check the *“Launch Git Bash”* and click *“Finish”* to launch Git Bash.
 - The terminal will open and you will be able to enter commands.
 
-## How would someone clone your repo?  What instructions would they need? Using git bash
+### Clone the repo
 
 - Open the repository that you want to clone. 
 - Click on *"Code"* tab and copy the **HTTPS link**. 
-- Open GitBash with folder where you want to download it. 
-- Type *"git clone"* and paste the **HTTPS link** and hit enter.
-- Repository is now downloaded on your computer and you can open it with *Visual Studio code*.
+- Open GitBash with folder where you want to download it. Type
 
-## How to download Anaconda
+        git clone
 
-- Download the Anaconda from from their official website: https://www.anaconda.com/products/individual#windows
+    and paste the **HTTPS link** and hit enter.
+- Repository is now downloaded on your computer and you can open it with [Visual Studio code](https://TODOvisual.com).
+
+### Download Anaconda
+
+- Download [Anaconda](https://www.anaconda.com/products) from from their official website.
 - Double click the installer to launch and hit *"Next"*.
 - Read the licensing terms and click *“I Agree”*.
 - Select an install for *“Just Me”* and click *"Next"*.
@@ -31,23 +37,36 @@
 - Click the *"Next"* button.
 - After a successful installation click the *"Finish"* button.
 
-## How to build Conda Environments
+### Build the conda Environments
 
-- You can create your first conda environment: Type *"conda env create -f environment.yml"*
-- Then type: *"conda activate nrel"*
-- Next step is type: *"which python"*
-- Now you can open jupyter notebook by typing *"jupter notebook"*
+- You can create your first conda environment by typing:
 
-## How to download Data
+         conda env create -f environment.yml
+
+- To activate your environment, type:
+
+        conda activate nrel
+
+- Next step is verify you are using the correct `python` version: 
+
+        which python
+
+- Now you can open jupyter notebook by typing      
+        
+        jupter notebook
+
+## Running the notebooks
+
+### Download Data
 
 - Here is google drive link from where you can download data file: https://drive.google.com/drive/folders/1YhBtKIuqzM_TvbwBYY6-UMVAD8o-WS10?usp=sharing
-- Click on the link and download both folders and file. 
+- Click on the link and download both folders and files into the notebooks directory.
 
-## Link for Analysis.ipynb
+## Discussion of results
 
-- Here is the link for Analysis.ipynb: https://github.com/Gurleensandhu1/NREL-internship/blob/main/notebooks/Analysis.ipynb
+- Here is the link for the [Analysis](notebooks/Analysis.ipynb) notebook: 
 
-## Example graphs from Analysis.ipynb
+### Example graphs from Analysis.ipynb
 
 ![](Images/Screenshot1.png)
 ![](Images/Screenshot2.png)
