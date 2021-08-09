@@ -31,3 +31,9 @@
 - Click the *"Next"* button.
 - After a successful installation click the *"Finish"* button.
 
+## How to build Conda Environments
+
+- You can create your first conda environment: Type *"conda env create -f environment.yml"*
+- Then type: *"conda activate nrel"*
+- Next step is type: *"which python"*
+- Now you can open jupyter notebook by typing *"jupter notebook"*
