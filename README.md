@@ -37,3 +37,12 @@
 - Then type: *"conda activate nrel"*
 - Next step is type: *"which python"*
 - Now you can open jupyter notebook by typing *"jupter notebook"*
+
+## How to download Data
+
+- Here is google drive link from where you can download data file: https://drive.google.com/drive/folders/1YhBtKIuqzM_TvbwBYY6-UMVAD8o-WS10?usp=sharing
+- Click on the link and download both folders and file. 
+
+## Link for Analysis.ipynb
+
+
