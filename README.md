@@ -45,4 +45,5 @@
 
 ## Link for Analysis.ipynb
 
+- Here is the link for Analysis.ipynb: https://github.com/Gurleensandhu1/NREL-internship/blob/main/notebooks/Analysis.ipynb
 
