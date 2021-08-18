@@ -24,7 +24,7 @@ In order to run the code in this repo you'll need to install the following packa
         git clone
 
     and paste the **HTTPS link** and hit enter.
-- Repository is now downloaded on your computer and you can open it with [Visual Studio code](https://TODOvisual.com).
+- Repository is now downloaded on your computer and you can open it with [Visual Studio code](https://code.visualstudio.com/).
 
 ### Download Anaconda
 
