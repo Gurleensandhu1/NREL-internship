@@ -28,7 +28,7 @@ In order to run the code in this repo you'll need to install the following packa
 
 ### Download Anaconda
 
-- Download [Anaconda](https://www.anaconda.com/products) from from their official website.
+- Download [Anaconda](https://www.anaconda.com/) from from their official website.
 - Double click the installer to launch and hit *"Next"*.
 - Read the licensing terms and click *“I Agree”*.
 - Select an install for *“Just Me”* and click *"Next"*.
